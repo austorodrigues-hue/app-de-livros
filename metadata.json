@@ -1,0 +1,5 @@
+{
+  "name": "Static PDF Manager",
+  "description": "A 100% static, offline tool to manage, view, and create PDF documents with custom covers and dark mode support. GitHub Pages ready.",
+  "requestFramePermissions": []
+}
