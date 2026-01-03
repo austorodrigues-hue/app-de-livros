@@ -1,8 +1,8 @@
 
 import React, { useState, useEffect, useCallback } from 'react';
-import { PDFDocument } from './types';
-import * as Storage from './services/storage';
-import * as PDFFactory from './services/pdfFactory';
+import { PDFDocument } from './types.ts';
+import * as Storage from './services/storage.ts';
+import * as PDFFactory from './services/pdfFactory.ts';
 
 type ViewMode = 'library' | 'create';
 

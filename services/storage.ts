@@ -1,5 +1,5 @@
 
-import { PDFDocument } from '../types';
+import { PDFDocument } from '../types.ts';
 
 const DB_NAME = 'LocalPDF_AI_DB';
 const STORE_NAME = 'documents';
